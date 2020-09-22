@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 92eb39042f811c749828a8c80e119552
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FirstPersonCamera: {instanceID: 0}
+  - arrowGameObject: {fileID: 1809388174345450, guid: 6b132c2dcf928dc438c48bb790bf701a,
+      type: 3}
+  - followPrefab: {fileID: 4966877924420701751, guid: f036e1ac4c7bee1409505fdf904828f3,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
